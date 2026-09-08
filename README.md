@@ -4,6 +4,8 @@
 
 QA Manual · Soporte Técnico IT · Front-End · Datos (SQL / Power BI)
 
+Mi portafolio en GitHub: https://cesarjfarias.github.io/landing-personal/  
+
 ---
 
 ## Lo que hago
@@ -17,7 +19,7 @@ QA Manual · Soporte Técnico IT · Front-End · Datos (SQL / Power BI)
 
 | Repo | Para qué sirve |
 |---|---|
-| [Web personal (en vivo)](https://cesarjfarias.github.io/landing-personal/) | Mi portafolio en GitHub  |
+| [Web personal ](https://cesarjfarias.github.io/landing-personal/) | Mi portafolio en GitHub  |
 | [bug-portfolio](https://github.com/CesarJFarias/bug-portfolio) | Casos de prueba y bugs documentados (QA) |
 | [Pimienta-y-ron](https://github.com/CesarJFarias/Pimienta-y-ron) | Catálogo de ropa |
 
