@@ -1,4 +1,4 @@
-﻿# Hola, soy César Farias 👋
+# Hola, soy César Farias 👋
 
 **Técnico Superior en Desarrollo de Software** (Instituto Manuel Belgrano, 2020–2024)
 
@@ -17,9 +17,9 @@ QA Manual · Soporte Técnico IT · Front-End · Datos (SQL / Power BI)
 
 | Repo | Para qué sirve |
 |---|---|
-| [landing-personal](https://github.com/CesarJFarias/landing-personal) | Mi web personal / portafolio |
-| [bug-portfolio](https://github.com/CesarJFarias/bug-portfolio) | Casos de prueba y bugs documentados (QA) |
-| [Pimienta-y-ron](https://github.com/CesarJFarias/Pimienta-y-ron) | Catálogo de ropa |
+| [Web personal (en vivo)](https://cesarjfarias.github.io/landing-personal/) | Mi portafolio en GitHub Pages (HTML, CSS, JS) |
+| [bug-portfolio](https://github.com/CesarJFarias/bug-portfolio) | Casos de prueba y bugs documentados (evidencia QA) |
+| [Pimienta-y-ron](https://github.com/CesarJFarias/Pimienta-y-ron) | Catálogo de ropa (JavaScript) |
 
 ## Contacto
 
@@ -28,3 +28,5 @@ QA Manual · Soporte Técnico IT · Front-End · Datos (SQL / Power BI)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesar-farias1812/)
 
 ---
+
+*Perfil en construcción — me comprometí a publicar algo nuevo cada semana.*
