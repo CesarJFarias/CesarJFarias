@@ -28,5 +28,3 @@ QA Manual · Soporte Técnico IT · Front-End · Datos (SQL / Power BI)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesar-farias1812/)
 
 ---
-
-*Perfil en construcción — me comprometí a publicar algo nuevo cada semana.*
